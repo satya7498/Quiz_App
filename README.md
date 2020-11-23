@@ -1,6 +1,7 @@
 # quiz_app
 
-A new Flutter application.
+Quiz_App is an app made with the help of flutter,the main functionality of the app is to generate a set of questions and check whether it is correct or not and simultaneously increasing the score through performance.
+Some of the screenshots of the app are below..
 
 ## Getting Started
 
